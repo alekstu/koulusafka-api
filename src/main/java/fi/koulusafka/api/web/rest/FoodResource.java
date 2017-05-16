@@ -41,7 +41,7 @@ public class FoodResource {
 	*/
 	 
 	 
-	 @GetMapping(ApiConstants.VERSION1 + "menu/restaurants")
+	 @GetMapping(ApiConstants.VERSION1 + "/menu/restaurants")
 	 public ResponseEntity<List<WeekMenu>> getWeekMenus(
 			 	@RequestParam(value="id", required = true) List<Long> restaurants,
 			 	@RequestParam(value="type", required = false) String type,
