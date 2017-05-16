@@ -1,0 +1,205 @@
+id;brand;name;restaurant_id;address;postal_code;post_office;website_url;latitude;longitude;hits;enabled
+1;Sodexo;Aalto OIH kavila;133;Otaniementie 19-21;02150;Espoo;aaltoyliopiston_kahvila;60.184362;24.827398;0;TRUE
+2;Sodexo;Aalto Valimo;13918;Metallimiehenkuja 2;02150;Espoo;aalto-valimo;60.183315;24.828317;0;TRUE
+3;Sodexo;Konetekniikka;140;Otakaari 4;02150;Espoo;konetekniikka;60.187104;24.827399;0;TRUE
+4;Sodexo;Ravintola Kasper;139;Vuorimiehentie 2;02150;Espoo;kasper;60.182936;24.825893;0;TRUE
+5;Sodexo;Tietotekniikkatalo;142;Konemiehentie 2;02150;Espoo;tietotekniikantalo;60.1872;24.822695;0;TRUE
+6;Sodexo;Ärrävaara;10392;Koivuvaarankuja 2;01640;Vantaa;arravaara;60.256456;24.814271;0;TRUE
+7;Sodexo;Atomitie 5;9;Atomitie 5;00370;Helsinki;atomitie5;60.432366;26.31438;0;TRUE
+8;Sodexo;Auriga Business Center;132;Juhana Hertuan Puistokatu 21;20100;Turku;auriga;60.439575;22.227117;0;TRUE
+9;Sodexo;Business Park Mankkaa;12;Klovinpellontie 1-3;02180;Espoo;tayttymys;60.203949;24.757223;0;TRUE
+10;Sodexo;Candio;16543;Kiinamyllynkatu 10;20520;Turku;candio;60.451821;22.292333;0;TRUE
+11;Sodexo;Carl August;537;Lautatarhankatu 6;00580;Helsinki;carlaugust;60.189241;24.970697;0;TRUE
+12;Sodexo;DHL Express;21;Tullimiehentie 10;01530;Vantaa;dhlexpress;60.311344;24.993549;0;TRUE
+13;Sodexo;Dynamo Business Park;22;Hatapään valtatie 24;33100;Tampere;dynamo;61.491003;23.771997;0;TRUE
+14;Sodexo;Finnair Toke;28;Lentäjäntie 1 B;01053;Vantaa;TOKE;63.712493;23.104944;0;TRUE
+15;Sodexo;Finnfrost, ravintola Frost;47;Jusslansuu 2;04300;Tuusula;finnfrost-ravintola-frost;60.340698;25.011005;0;TRUE
+16;Sodexo;Fläkt Woods;14627;Kalevantie 39;20520;Turku;flaktwoods;60.447924;22.320631;0;TRUE
+17;Sodexo;Gate 8;50;Äyritie 12 A;01510;Vantaa;gate8;60.294236;24.966392;0;TRUE
+18;Sodexo;Hämeenkylän kartano;3;Juustenintie 1;01630;Vantaa;hameenkylankartano;60.270729;24.787168;0;TRUE
+19;Sodexo;Hermia 5;134;Visiokatu 1;33720;Tampere;hermia5;61.448153;23.863053;0;TRUE
+20;Sodexo;Hermia 6;9870;Visiokatu 3;33720;Tampere;hermia-6;61.447139;23.864281;0;TRUE
+21;Sodexo;Hopeatie 2;121;Hopeatie 2;00440;Helsinki;hopeatie2;60.229897;24.882312;0;TRUE
+22;Sodexo;Hotelli Kuninkaantie;120;Lakelankatu 1;02770;Espoo;kuninkaantie;60.208249;24.659157;0;TRUE
+23;Sodexo;HOTT;878;Tietotie 9;01530;Vantaa;hott/lounas;60.308998;24.962466;0;TRUE
+24;Sodexo;HTC Helsinki;30;Tammasaarenkatu 1-5;00180;Helsinki;htc-helsinki;60.161352;24.904226;0;TRUE
+25;Sodexo;HTC Helsinki, Acqua;30;Tammasaarenkatu 1-5;00180;Helsinki;htchelsinki;60.161352;24.904226;0;TRUE
+26;Sodexo;HTC Helsinki, Explorer;31;Tammasaarenkatu 1-5;00180;Helsinki;explorer;60.161352;24.904226;0;TRUE
+27;Sodexo;Huolintatalo;53;Pasilankatu 2;00240;Helsinki;huolintatalo;60.19557;24.928452;0;TRUE
+28;Sodexo;ICT - talo;54;Joukahaisenkatu 3;20520;Turku;ict;60.449593;22.294851;0;TRUE
+29;Sodexo;Ilona;55;Eino Salmelaisen katu 20;39500;Ikaalinen;ilona;61.764685;23.067714;0;TRUE
+30;Sodexo;Ravintola Bepop;888;Itämerenkatu 11-13;00180;Helsinki;itamerenkatu-11-13;60.163842;24.916147;0;TRUE
+31;Sodexo;JAMK Fuuga / Musiikkikampus;5868;Pitkäkatu 18;40700;Jyväskylä;jamk-musiikki;63.100652;21.615023;0;TRUE
+32;Sodexo;JAMK Rajacafé / Pääkampus;5861;Rajakatu 35;40200;Jyväskylä;jamk-rajacafe;62.251283;25.743339;0;TRUE
+33;Sodexo;JAMK Ravintola Bittipannu / Dynamo;5865;Piippukatu 2;40100;Jyväskylä;jamk-dynamo;62.241622;25.759731;0;TRUE
+34;Sodexo;JAMK Ravintola Radis / Pääkampus;5859;Rajakatu 35;40200;Jyväskylä;jamk-paakampus;62.251283;25.743339;0;TRUE
+35;Sodexo;Jyväskylän poliisi- ja oikeustalo;56;Väinönkatu 10;40100;Jyväskylä;poliisijaoikeustalo;62.241993;25.753339;0;TRUE
+36;Sodexo;Kaivomestari;77;Kaivomestarinniitty 2;02270;Espoo;kaivomestari;60.209898;24.659883;0;TRUE
+37;Sodexo;Kalasatama;37;Sörnäistenkatu 1;00580;Helsinki;kalasatama;60.189488;24.969034;0;TRUE
+38;Sodexo;Kalasataman kulma;51;Työpajankatu 7;00580;Helsinki;hermanni;60.18934;24.971956;0;TRUE
+39;Sodexo;Kalasataman Kummeli;10846;Vilhonvuorenkatu 12;00500;Helsinki;kalasataman-kummeli;60.186585;24.967524;0;TRUE
+40;Sodexo;Keilaranta 1;6519;Keilaranta 1;02150;Espoo;keilaranta1/lounas;60.175876;24.830589;0;TRUE
+41;Sodexo;Keilasatama 5;57;Keilasatama 5;02150;Espoo;keilasatama5;60.173441;24.829458;0;TRUE
+42;Sodexo;Kiltakellari;38;Bulevardi 44;00120;Helsinki;kiltakellari;60.161865;24.93139;0;TRUE
+43;Sodexo;Boliden Kokkola;10;Outokummuntie 8;67100;Kokkola;bolidenkokkola;62.923134;28.691798;0;TRUE
+44;Sodexo;KONE Hyvinkää, Paussi;113;Myllynkatu 3;05801;Hyvinkää;kone-hyvinkaa-paussi;60.491674;22.200146;0;TRUE
+45;Sodexo;KONE Hyvinkää, Deli;114;Kuumolankatu 1;05801;Hyvinkää;kone-oyj-hyvinkaa;60.618957;24.824432;0;TRUE
+46;Sodexo;Sedu Ilmajoentie;1401;Ilmajoentie 525;60800;Ilmajoki;sedu-ilmajoentie;62.718395;22.535113;0;TRUE
+47;Sodexo;Sedu Koskenalantie;1404;Koskenalantie 17;60220;Seinäjoki;sedu-koskenalantie;62.773528;22.818958;0;TRUE
+48;Sodexo;Sedu Koulukatu;1402;Koulukatu 41;60100;Seinäjoki;sedu-koulukatu;63.091988;21.609415;0;TRUE
+49;Sodexo;Sedu Pappilantie;1405;Pappilantie 6;60800;Ilmajoki;sedu-pappilantie;62.738342;22.566286;0;TRUE
+50;Sodexo;Kulmasarvis;58;Hatapäänkatu 1;33900;Tampere;kulmasarvis;61.486175;23.763957;0;TRUE
+51;Sodexo;La Mer;61;John Stenbergin ranta 6;00530;Helsinki;lamer;60.177902;24.95159;0;TRUE
+52;Sodexo;Ladonlukko;62;Latokartanonkaari 9;00790;Helsinki;ravintolaladonkukko;60.229652;25.01808;0;TRUE
+53;Sodexo;Laurea Hyvinkää;153;Uudenmaankatu 22;05800;Hyvinkää;laureahyvinkaa;60.62669;24.939507;0;TRUE
+54;Sodexo;Lounasravintola Kärry;138;Kärrytie 1;61300;Kurikka;karry;60.802974;25.736683;0;TRUE
+55;Sodexo;Mäkelän Koulu (Hattulantie 2);90;Hattulantie 2;00550;Helsinki;hbc;60.196342;24.855157;0;TRUE
+56;Sodexo;Mattilanniemi;66;Mattilanniemi 8;40100;Jyväskylä;mattilanniemi;62.233216;25.739121;0;TRUE
+57;Sodexo;Metropolia Agricola;16361;Agricolankatu 1-3;00500;Helsinki;agricola;60.184365;24.95625;0;TRUE
+58;Sodexo;Metropolia Albert;16362;Albertinkatu 40-42;00180;Helsinki;albert;60.165321;24.931656;0;TRUE
+59;Sodexo;Metropolia Bulevardi;16363;Bulevardi 31;00120;Helsinki;bulevardi;60.162686;24.931974;0;TRUE
+60;Sodexo;Metropolia Hämeentie;16364;Hämeentie 161;00560;Helsinki;hameentie;60.214738;24.980422;0;TRUE
+61;Sodexo;Metropolia Leiritie;16365;Lieritie 1;01600;Vantaa;leiritie;60.258586;24.845581;0;TRUE
+62;Sodexo;Metropolia Onnentie;16432;Onnentie 18;00600;Helsinki;onnentie;60.219799;24.956784;0;TRUE
+63;Sodexo;Metropolia Sofianlehto;16433;Sofianlehdonkatu 5;00610;Helsinki;sofianlehto;60.203887;24.950527;0;TRUE
+64;Sodexo;Metropolia Tukholmankatu;16434;Tukholmankatu 10;00290;Helsinki;tukholmankatu;60.191211;24.90169;0;TRUE
+65;Sodexo;Metropolia Vanha Maantie 6;16435;Vanha maantie 6;02650;Espoo;vanhamaantie;60.22192;24.805534;0;TRUE
+66;Sodexo;Metropolia Vanha Viertotie 23;16448;Vanha Viertotie 23;00350;Helsinki;vanhaviertotie;60.211129;24.881659;0;TRUE
+67;Sodexo;Navitas Taitotalo;69;Wredenkatu 2;78250;Varkaus;navitas;62.311551;27.88982;0;TRUE
+68;Sodexo;Niittykatu 8;12651;Niittykatu 8;02200;Espoo;niittykatu-8;60.167826;24.759583;0;TRUE
+69;Sodexo;Nova Bistro;79;Lars Sonckin kaari 10;02600;Espoo;nova;60.211058;24.818186;0;TRUE
+70;Sodexo;Old Mill;70;Ruukinkatu 2-4;20540;Turku;oldmill;60.452468;22.300758;0;TRUE
+71;Sodexo;Onninen Hyvinkää - Onnenmaa;13578;Niinistönkatu 16;05800;Hyvinkää;onninen-hyvinkaa-onnenmaa;60.648373;24.862361;0;TRUE
+72;Sodexo;Onninen Tampere;13286;Joentaustankatu 3;33310;Tampere;onninen-tampere;61.502486;23.586385;0;TRUE
+73;Sodexo;Oulu koulut ja päiväkodit;72;Ruotukuja 1;90630;Oulu;honttamaki;65.049819;25.599164;0;TRUE
+74;Sodexo;Parkki;82;Katriinantie 14-16;01530;Vantaa;parkki;60.318326;24.906397;0;TRUE
+75;Sodexo;Pikseli;124;Kumpulantie 5;00520;Helsinki;pikseli;60.196642;24.943157;0;TRUE
+76;Sodexo;Pohjankesti;137;Päivölänkatu 40;60120;Seinäjoki;pohjankesti;62.792894;22.872055;0;TRUE
+77;Sodexo;Ravintola Bollis;129;Urheilukatu 5;00250;Helsinki;ravintola-bollis;60.187493;24.921842;0;TRUE
+78;Sodexo;Ravintola Lapintiira;152;Lapinlahdenkatu 1;00180;Helsinki;lapintiira;60.166334;24.932469;0;TRUE
+79;Sodexo;Ravintola Laturi;13821;Upseerinkatu 2;02600;Espoo;laituri;60.216743;24.819774;0;TRUE
+80;Sodexo;Ravintola Lielahden palvelukeskus;19646;Teivaankatu 1;33400;Tampere;lielahti;61.519955;23.669005;0;TRUE
+81;Sodexo;Ravintola Näköala;19759;Aleksis Kivenkatu 14-16;33210;Tampere;nakoala;60.982331;24.417441;0;TRUE
+82;Sodexo;Ravintola Palopesä;19758;Satakunnankatu 16;33100;Tampere;palopesa;61.501281;23.765051;0;TRUE
+83;Sodexo;Ravintola Terra;546;Lars Sonckin kaari 10-16;02600;Espoo;ravintola-terra;60.212173;24.817627;0;TRUE
+84;Sodexo;Ravintola Tietotalo;19754;Naulakatu 2;33100;Tampere;tampereentietotalo;61.49138;23.77743;0;TRUE
+85;Sodexo;Ravintola Varikko;19751;Jokipohjantie 24;33800;Tampere;varikko;61.478162;23.797795;0;TRUE
+86;Sodexo;Ravintola Vaski;19682;Tipotie 4;33230;Tampere;vaski;61.500059;23.725838;0;TRUE
+87;Sodexo;Rengasterassi;83;Nosturinkatu 18;37150;Nokia;rengasterassi;60.441855;22.230043;0;TRUE
+88;Sodexo;SAMK Fregatti;154;Satamakatu 26;26100;Rauma;fregantti;61.494294;23.745797;0;TRUE
+89;Sodexo;SAMK Paletti;155;Paasikivenkatu 24;38700;Kankaanpää;paletti;61.802834;22.399586;0;TRUE
+90;Sodexo;SAMK Tekatria;156;Tiedepuisto 3;28600;Pori;tekatria;61.493066;21.721321;0;TRUE
+91;Sodexo;SAMK Terra;158;Maanmiehenkatu 10;02810;Pori;terra;61.475678;21.779283;0;TRUE
+92;Sodexo;SeAMK Frami;873;Kampusranta 11;60100;Seinäjoki;frami;62.789656;22.821579;0;TRUE
+93;Sodexo;SeAMK Kampustalo;847;Kalevankatu 35;60100;Seinäjoki;kampustalo;62.789007;22.831218;0;TRUE
+94;Sodexo;Sibelius-Akatemia N-talo;7059;Nervanderinkatu 13;00260;Helsinki;siban;60.173944;24.928377;0;TRUE
+95;Sodexo;Sibelius-Akatemia T-talo;5875;Töölönkatu 28;00260;Helsinki;sibat;60.17852;24.926638;0;TRUE
+96;Sodexo;Strömberginaukio;89;Hiomotie 32;00380;Helsinki;stromberginaukio;60.220109;24.870195;0;TRUE
+97;Sodexo;Tampereen Oikeustalo;91;Kelloportinkatu 5;33100;Tampere;tampereenoikeustalo;61.502796;23.76254;0;TRUE
+98;Sodexo;Tampereen yliopisto, Linna;92;Kalevantie 5;33100;Tampere;linna;61.494944;23.778129;0;TRUE
+99;Sodexo;Technopolis Aviapolis – Siipi;93;Teknobulevardi 3-5;01530;Vantaa;siipi;60.305336;24.967054;0;TRUE
+100;Sodexo;Technopolis Innopoli I – Hehku;876;Tekniikantie 12;02150;Espoo;Innopoli-i;60.183899;24.8144;0;TRUE
+101;Sodexo;Technopolis Lentokentäntie;94;Vihikari 10;90440;Kempele;technopolis-lentokentantie;64.938935;25.445707;0;TRUE
+102;Sodexo;Technopolis Luoto;8336;Yrttipellontie 6;90230;Oulu;technopolis-luoto;65.01346;25.510589;0;TRUE
+103;Sodexo;Technopolis Oulu Linnanmaa;49;Elektroniikkatie 2;90590;Oulu;technopolis-oulu-linnanmaa;65.057233;25.443184;0;TRUE
+104;Sodexo;Elektra;16;Elektroniikkatie 2;90590;Oulu;elektra;65.057233;25.443184;0;TRUE
+105;Sodexo;Technopolis Oulu, Kahvila;122;Elektroniikkatie 3;90590;Oulu;technopolis/kahvila;65.058866;25.43947;0;TRUE
+106;Sodexo;Technopolis Peltola – Myrsky;12820;Yrttipellontie 1;90230;Oulu;technopolis-myrsky;65.012724;25.512679;0;TRUE
+107;Sodexo;Technopolis Ruoholahti – Hiili;131;Energiakuja 3;00180;Helsinki;ruoholahti;63.576459;27.190365;0;TRUE
+108;Sodexo;Technopolis Tallinn;7576;Löötsa 6;11415;Tallinn;technopolis-tallinn;59.421447;24.801199;0;TRUE
+109;Sodexo;Technopolis Vapaudenaukio - Vapar1;9634;Valtakatu 51;53100;Lappeenranta;vapar1;61.059153;28.195143;0;TRUE
+110;Sodexo;Teollisuuskatu 21;95;Töysänkatu 1;00510;Helsinki;teollisuuskatu21;60.194601;24.947651;0;TRUE
+111;Sodexo;Tietotalo;96;Kilpisenkatu 1;40100;Jyväskylä;tietotalo;62.23977;25.748902;0;TRUE
+112;Sodexo;Toyota Kaivoksela;115;Vanha Kaarelantie 31;01610;Vantaa;toyota-kaivoksela;60.261028;24.874784;0;TRUE
+113;Sodexo;TTY Tietotalo;12812;Korkeakouluntie 1;33720;Tampere;tty-tietotalo;60.987544;24.458776;0;TRUE
+114;Sodexo;Turun AMK, Aurinkolaiva;76;Ylhäistentie 2;24130;Salo;amksalo;60.369511;23.13058;0;TRUE
+115;Sodexo;Turun AMK, Lemminkäisenkatu;64;Lemminkäisenkatu 30;20520;Turku;lemminkaisenkatu;60.446033;22.300232;0;TRUE
+116;Sodexo;Tuuli;65;Pakkalankuja 6;01510;Vantaa;ravintolatuuli;60.288176;24.956444;0;TRUE
+117;Sodexo;Valimo 21;101;Valimontie 21;00380;Helsinki;valimo21;62.206865;25.713428;0;TRUE
+118;Sodexo;Valimotie 9;102;Valimontie 9;00380;Helsinki;valimontie9;62.208595;25.716012;0;TRUE
+119;Sodexo;Valkea talo;143;Ilkantie 4;00400;Helsinki;valkeatalo;60.221161;24.902511;0;TRUE
+120;Sodexo;Valotalo;87;Radiokatu 20;00240;Helsinki;valo;60.203232;24.919134;0;TRUE
+121;Sodexo;Viikin kartano;103;Viikinkaari 8;00790;Helsinki;viikinkartano;60.22702;25.012227;0;TRUE
+122;Sodexo;Vorssan Vapriikki;104;Kutomokuja 2 A;33100;Forssa;vorssan-vapriikki;60.213717;24.874371;0;TRUE
+123;Amica;Ravintola Buffetti;21402;Yliopistonranta 10;65200;Vaasa;buffetti;63.103023;21.593883;0;TRUE
+124;Amica;Solina;424;Tikkarinne 9;80200;Joensuu;solina;62.589139;29.778807;0;TRUE
+125;Amica;Petronella;60201;Yliopistonkatu 8;96300;Rovaniemi;petronella;66.484671;25.714503;0;TRUE
+126;Amica;Mathilda;3003;Wolffintie 34;65200;Vaasa;mathilda;63.105691;21.594097;0;TRUE
+127;Amica;Messi;3565;Vierimaantie 7;84100;Ylivieska;messi;64.0736;24.515413;0;TRUE
+128;Amica;Pirteria;823;Kuntokatu 4;33520;Tampere;pirteria;61.504687;23.810085;0;TRUE
+129;Amica;Tietoteknia;439;Savilahdentie 6;70210;Kuopio;tietoteknia;62.891335;27.636897;0;TRUE
+130;Amica;Edupoli Herttoniemi;3147;Lämmittäjänkatu 2 A;00880;Helsinki;edupoli_herttoniemi;60.198993;25.038765;0;TRUE
+131;Amica;Kampus;393;Lönnrotinkatu 5;50100;Mikkeli;kampus;61.689445;27.263009;0;TRUE
+132;Amica;Hella Wuolijoki;3032;Ratatie 22;01300;Vantaa;hella_wuolijoki;60.295117;25.04438;0;TRUE
+133;Amica;Wire;447;Karjalankatu 3;80200;Joensuu;wire;62.595821;29.777803;0;TRUE
+134;Amica;Minerva;815;Kanslerinrinne 1;33100;Tampere;minerva;61.493461;23.777933;0;TRUE
+135;Amica;Hanken;3406;Arkadiakatu 22;00100;Helsinki;hanken;60.171236;24.924159;0;TRUE
+136;Amica;Canthia;436;Yliopistoranta 1 C;70210;Kuopio;canthia;62.895036;27.640975;0;TRUE
+137;Amica;Välkky;484;Kuninkaankartanonkatu 7;57100;Savonlinna;valkky;61.865261;28.862349;0;TRUE
+138;Amica;Kulinarium;557;Satamakatu 5;26100;Rauma;kulinarium;61.129757;21.494467;0;TRUE
+139;Amica;Aalto/VM5;3579;Vuorimiehentie 5;02150;Espoo;aalto_vm5;60.183099;24.827504;0;TRUE
+140;Amica;Carelia;417;Yliopistokatu 4;80100;Joensuu;carelia;62.604845;29.744464;0;TRUE
+141;Amica;Campus;3543;Taidetehtaankatu 1;06100;Porvoo;campus;60.387167;25.657363;0;TRUE
+142;Amica;Allegro;3862;Kauppiaankatu 10;68600;Pietarsaari;allegro;63.673699;22.705313;0;TRUE
+143;Amica;Serveri;263;Wolffintie 30;65200;Vaasa;severi;63.106988;21.591725;0;TRUE
+144;Amica;Snellmania;437;Yliopistoranta 1 E;70210;Kuopio;snellmania;62.895036;27.640975;0;TRUE
+145;Amica;Kaarisali;488;Savonniemenkatu 6;57100;Savonlinna;kaarisali;61.866535;28.878234;0;TRUE
+146;Amica;Sirkkalan kampus;3464;Sirkkalantie 12 A;80100;Joensuu;sirkkalan_kampus;62.602758;29.774485;0;TRUE
+147;Amica;Wallu;217;Teuvo Pakkalankatu 19;90130;Oulu;wallu;65.006636;25.490111;0;TRUE
+148;Amica;Alppica & Amanda;2123;Alppikatu 2;00530;Helsinki;alpica_amanda;60.184395;24.939272;0;TRUE
+149;Amica;Jamipaja;3007;Arabiankatu 2 A;00560;Helsinki;jamipaja;60.206906;24.975417;0;TRUE
+150;Amica;Alwari;226;Kiviharjuntie 8;90220;Oulu;alwari;65.00791;25.513819;0;TRUE
+151;Amica;Markkinointi-Instituutti;2065;Töölöntullinkatu 6;00250;Helsinki;markkinointi-instituutti;60.190378;24.912676;0;TRUE
+152;Amica;Tähkä;61;Koetilantie 7;00790;Helsinki;tahka;60.223031;25.019232;0;TRUE
+153;Amica;Ravintola Central Station;273;Pentti Kaiterankatu 1;90014;Oulu;ravintola_central_station;65.05637;25.468308;0;TRUE
+154;Amica;Hirvenpää;3667;Risto Rytin katu 70;32700;Huittinen;hirvenpaa;61.179176;22.713751;0;TRUE
+155;Amica;TeaK;3067;Haapaniemenkatu 6;00530;Helsinki;teak;60.181096;24.95887;0;TRUE
+156;Amica;Sofia;3659;Siltapuistokatu 2;28100;Pori;sofia;61.49238;21.800686;0;TRUE
+157;Amica;Ravintola Stories;274;Pentti Kaiteran katu 1;90014;Oulu;ravintola_stories;65.05637;25.468308;0;TRUE
+158;Amica;Pääraide;83;Rautatieläisenkatu 5;00520;Helsinki;paaraide;60.201383;24.935498;0;TRUE
+159;Amica;Aura;413;Yliopistokatu 2;80100;Joensuu;aura;62.603598;29.744203;0;TRUE
+160;Amica;Felli;602;Yliopistonkatu 8;96300;Rovaniemi;felli;66.484671;25.714503;0;TRUE
+161;Amica;Ravintola Datagarage;275;Pentti Kaiteran katu 1;90014;Oulu;ravintola_datagarage;65.05637;25.468308;0;TRUE
+162;Amica;Ravintola Balance;602;Pentti Kaiteran katu 1;90014;Oulu;ravintola_balance;65.05637;25.468308;0;TRUE
+163;Amica;Ravintola Ainokainen;827;Korkeakoulunkatu 3;13100;Hämeenlinna;ravintola_ainokainen;60.987025;24.457017;0;TRUE
+164;Amica;Atrium;189;Raseborgsvägen 9;10600;Ekenäs;atrium;59.975937;23.450618;0;TRUE
+165;Amica;Silinteri;19002;Otakaari 1;01250;Espoo;silinteri;60.186289;24.828528;0;TRUE
+166;Amica;Alvari;190;Otakaari 1;01250;Espoo;alvari;60.186289;24.828528;0;TRUE
+167;Amica;Bitti ja kahvila Sentti;824;Lotilantie 16;37630;Valkeakoski;bitti_sentti;61.27938;23.999826;0;TRUE
+168;Amica;Helmi;831;Vankanlähde 11;13100;Hämeenlinna;helmi;60.976442;24.481292;0;TRUE
+169;Amica;DIAK;3104;Kyläsaarenkuja 2;00580;Helsinki;diak;60.199634;24.969456;0;TRUE
+170;Amica;Ravintola Aava;271;Biologintie;90014;Oulu;aava;65.060455;25.462948;0;TRUE
+171;Amica;Reaktori;812;Korkeakoulunkatu 7;33720;Tampere;reaktori;61.451105;23.863365;0;TRUE
+172;Amica;Kotkanpoika & Kultturelli;235;Kotkantie 1;90250;Oulu;kotkanpoika_kultturelli;64.999521;25.512676;0;TRUE
+173;Amica;Chyndenia;3091;Runeberginkatu 22-24;00100;Helsinki;chyndenia;60.173568;24.92221;0;TRUE
+174;Amica;Mediteknia;442;Yliopistonranta 1 B;70210;Kuopio;mediteknia;62.895036;27.640975;0;TRUE
+175;Amica;Rafla;3089;Runeberginkatu 14-16;00100;Helsinki;rafla;60.171782;24.923141;0;TRUE
+176;Amica;Proffa;308901;Runeberginkatu 14-16;00100;Helsinki;proffa;60.171782;24.923141;0;TRUE
+177;Amica;Tuas;199;Otaniementie 17;02150;Espoo;tuas;60.18713;24.818789;0;TRUE
+178;Amica;Teknika;509;Sepänkatu 1;20700;Turku;teknika;60.444203;22.269037;0;TRUE
+179;Amica;Helia Bistro;84;Ratapihantie 13;00520;Helsinki;helia_bistro;60.201373;24.934041;0;TRUE
+180;Amica;Laurea Otaniemi;3292;Metsäpojankuja 3;02130;Espoo;laurea_otaniemi;60.185765;24.805458;0;TRUE
+181;Amica;Kvarkki;191;Otakaari 3;02150;Espoo;kvarkki;60.188348;24.829407;0;TRUE
+182;Amica;Cafe Hermes;26302;Kauppapuistikko 2;65100;Vaasa;cafe_hermes;63.099143;21.612657;0;TRUE
+183;Amica;Arcada;3003;Jan-Magnus Janssonin aukio 1;00550;Helsinki;arcada;60.201531;24.966226;0;TRUE
+184;Amica;Iisalmen kampus;455;Haukisaarentie 2;74130;Iisalmi;iisalmen_kampus;63.541778;27.216819;0;TRUE
+185;Amica;Futura, Natura, Borealis ja Metria;41702;Yliopistokatu 7;80100;Joensuu;futura_natura_borealis_metria;62.605242;29.740945;0;TRUE
+186;Amica;Monttu & Kahvila;533;Rehtoripellonkatu 3;20500;Turku;monttu_kahvila;60.454353;22.287776;0;TRUE
+187;Amica;Kasarmiravintola;3548;Paraatikenttä 5;45100;Kouvola;kasarmiravintola;60.873606;26.680891;0;TRUE
+188;Amica;Edupoli;3546;Ammattitie 1;06450;Porvoo;edupoli_porvoo;60.380439;25.621155;0;TRUE
+189;Amica;Cardia;233;Metsätie 1;34300;Kuru;cardia;61.876607;23.721512;0;TRUE
+190;Amica;Ravintola Silmu;829;Kuntotie 2;86300;Oululainen;ravintola_silmu;65.184949;25.349723;0;TRUE
+191;Amica;Edupoli Tikkurila;3146;Virnatie 5 A;01300;Vantaa;edupoli_tikkurila;60.287276;25.033599;0;TRUE
+192;Amica;Olivia;225;Kuusitie 6;84100;Ylivieska;olivia;64.085196;24.525396;0;TRUE
+193;Amica;Sanni;3353;Armilankatu 40;53100;Lappeenranta;sanni;61.058295;28.20699;0;TRUE
+194;Amica;Anselmi;3348;Tukkikatu 2;53900;Lappeenranta;anselmi;61.066136;28.1666;0;TRUE
+195;Amica;Maalarikahvila;521;Teijonkatu 5;20750;Turku;maalarikahvila;60.436811;22.343002;0;TRUE
+196;Amica;Kulinaari;516;Kärsämäentie 11;20360;Turku;kulinaari;60.478586;22.284726;0;TRUE
+197;Amica;Fenix;3069;Kauppakatu 1-3 C;45700;Kuusankoski;fenix;60.907501;26.625348;0;TRUE
+198;Amica;Arkadia;3575;Lepsämäntie 15;01800;Klaukkala;arkadia;60.379492;24.73782;0;TRUE
+199;Amica;Fasaani;218;Pikisaarentie 13;90100;Oulu;fasaani;65.018428;25.453848;0;TRUE
+200;Amica;Menuetti;227;Mäntypellonpolku 10;90460;Oulunsalo;menuetti;64.934931;25.397363;0;TRUE
+201;Amica;Joutsensiipi;230;Iivarinpolku 2;91900;Liminka;joutsensiipi;64.801939;25.417229;0;TRUE
+202;Amica;Joutsenkartano;231;Kotkantie 2 A;90250;Oulu;joutsenenkartano;64.999759;25.514576;0;TRUE
+203;Amica;Oulun Normaalikoulu;237;Kaitoväylä 7;90570;Oulu;oulun_normaalikoulu;65.062888;25.47377;0;TRUE
+204;Amica;Kauppis;808;Sammonkatu 45;33540;Tampere;kauppis;61.494085;23.814913;0;TRUE

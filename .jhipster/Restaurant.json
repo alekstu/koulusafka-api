@@ -1,0 +1,68 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipName": "listing",
+            "otherEntityName": "listing",
+            "relationshipType": "many-to-many",
+            "ownerSide": false,
+            "otherEntityRelationshipName": "restaurant"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "brand",
+            "fieldType": "Brand",
+            "fieldValues": "Amica,Sodexo,UniCafe"
+        },
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "restaurantId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "address",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "postalCode",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "postOffice",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "websiteUrl",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "latitude",
+            "fieldType": "Double"
+        },
+        {
+            "fieldName": "longitude",
+            "fieldType": "Double"
+        },
+        {
+            "fieldName": "hits",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "enabled",
+            "fieldType": "Boolean"
+        },
+        {
+            "fieldName": "disabledDate",
+            "fieldType": "ZonedDateTime"
+        }
+    ],
+    "changelogDate": "20170412085511",
+    "dto": "no",
+    "service": "serviceClass",
+    "entityTableName": "restaurant",
+    "pagination": "no"
+}
